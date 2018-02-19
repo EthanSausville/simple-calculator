@@ -1,0 +1,9 @@
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\bin\Simple Calculator.dll.config
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\bin\Simple Calculator.dll
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\bin\Simple Calculator.pdb
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.dll
+C:\Users\Ethan\Documents\My Code\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
